@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxCall", "AjaxCall\AjaxCall.csproj", "{0A304687-9136-4F65-A63D-2D4994586056}"
+EndProject
+Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 26fd5759-2141-4fd0-9e4d-6a41069b39be
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A304687-9136-4F65-A63D-2D4994586056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A304687-9136-4F65-A63D-2D4994586056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A304687-9136-4F65-A63D-2D4994586056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A304687-9136-4F65-A63D-2D4994586056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

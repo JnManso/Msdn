@@ -1,0 +1,5 @@
+C:\Projectos\GIT\Msdn\AjaxCall\AjaxCall\bin\AjaxCall.dll
+C:\Projectos\GIT\Msdn\AjaxCall\AjaxCall\bin\AjaxCall.pdb
+C:\Projectos\GIT\Msdn\AjaxCall\AjaxCall\obj\Debug\AjaxCall.csprojResolveAssemblyReference.cache
+C:\Projectos\GIT\Msdn\AjaxCall\AjaxCall\obj\Debug\AjaxCall.dll
+C:\Projectos\GIT\Msdn\AjaxCall\AjaxCall\obj\Debug\AjaxCall.pdb
